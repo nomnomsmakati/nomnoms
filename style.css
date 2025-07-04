@@ -21,8 +21,12 @@ body {
   flex-direction: column;
 }
 
-.brand-text, .nav-links li a, h1, h2, h3, h4, h5, h6, .cta-btn, .messenger-btn, input, textarea, button, label, .footer-content, .about-hero-max, .about-max-card, .order-form, .contact-info, .menu-card, .hero, .hero-overlay, .hero-card, .hero-text, .hero-image {
-  font-family: 'Glacial Indifference', Arial, sans-serif !important;
+.brand-text, .nav-links li a, .cta-btn, .messenger-btn, input, textarea, button, label, .footer-content, .about-hero-max, .about-max-card, .order-form, .contact-info, .menu-card, .hero, .hero-overlay, .hero-card, .hero-text, .hero-image {
+  font-family: 'Glacial Indifference', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'More Sugar', sans-serif;
 }
 
 header {
